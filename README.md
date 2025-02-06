@@ -85,7 +85,7 @@ Feel free to **fork** this repository, improve the model, and submit a **pull re
 Have questions or suggestions? Feel free to reach out!
 
 📧 Email: lasyatummala4@gmail.com
-💼 LinkedIn: linkedin.com/in/lasyatummala/
+💼 LinkedIn: https://www.linkedin.com/in/lasyatummala/
 🌍 GitHub: https://github.com/lasyatummala11
 
 

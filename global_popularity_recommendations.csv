@@ -1,0 +1,644 @@
+artist,popularity_score
+Donna Summer,191
+Gordon Lightfoot,189
+Bob Dylan,188
+George Strait,188
+Loretta Lynn,187
+Cher,187
+Alabama,187
+Reba Mcentire,187
+Chaka Khan,186
+Dean Martin,186
+Hank Williams Jr.,185
+Neil Young,185
+Nazareth,184
+Cliff Richard,184
+America,184
+Indigo Girls,184
+Kiss,183
+Johnny Cash,183
+Chris Rea,182
+Bon Jovi,181
+Dolly Parton,180
+Fleetwood Mac,180
+Deep Purple,179
+Rolling Stones,179
+Roy Orbison,178
+The Beatles,178
+Rod Stewart,178
+Randy Travis,177
+Morrissey,177
+James Taylor,177
+Iggy Pop,177
+Michael Jackson,176
+Michael W. Smith,176
+Elton John,175
+Bruce Springsteen,175
+Dusty Springfield,175
+Rush,175
+Green Day,174
+Alice Cooper,174
+Air Supply,174
+Moody Blues,174
+Kenny Rogers,174
+Neil Diamond,173
+Red Hot Chili Peppers,173
+Kenny Chesney,173
+Emmylou Harris,173
+Nick Cave,172
+Kylie Minogue,172
+Ramones,172
+Hillsong,172
+Aerosmith,171
+Vince Gill,171
+Kris Kristofferson,170
+Cheap Trick,170
+John Prine,170
+Kinks,170
+Joni Mitchell,170
+Gary Numan,170
+Bee Gees,170
+Paul McCartney,169
+Elvis Presley,168
+Carly Simon,168
+John Denver,168
+Uriah Heep,168
+Dave Matthews Band,168
+Ray Charles,167
+Depeche Mode,167
+Diana Ross,167
+Scorpions,167
+Michael Bolton,167
+Marilyn Manson,166
+Korn,166
+Robbie Williams,166
+David Bowie,165
+Grateful Dead,165
+Hillsong United,164
+Pearl Jam,164
+Lou Reed,164
+Glee,164
+Pet Shop Boys,164
+Backstreet Boys,164
+Jimmy Buffett,164
+Phish,163
+Who,163
+Ella Fitzgerald,163
+Queen,163
+David Allan Coe,162
+Status Quo,162
+Helloween,162
+Conway Twitty,162
+Cyndi Lauper,161
+Chicago,160
+Tom T. Hall,160
+Hank Williams,160
+Marianne Faithfull,160
+Glen Campbell,159
+Judas Priest,159
+Mariah Carey,159
+Leann Rimes,158
+Nina Simone,158
+Bette Midler,158
+Counting Crows,158
+Britney Spears,158
+Hank Snow,158
+Bob Seger,158
+George Harrison,157
+Barbra Streisand,157
+Ozzy Osbourne,157
+Kelly Clarkson,157
+Bing Crosby,157
+Black Sabbath,156
+Iron Maiden,156
+Paul Simon,156
+Lenny Kravitz,156
+Natalie Cole,155
+Metallica,155
+Frank Sinatra,154
+Hollies,154
+Kenny Loggins,153
+Kate Bush,153
+Eric Clapton,152
+John Mellencamp,152
+Waylon Jennings,152
+Beach Boys,151
+Van Morrison,150
+Linda Ronstadt,150
+Journey,150
+Billie Holiday,150
+Radiohead,150
+Beautiful South,149
+Marillion,149
+Oasis,149
+Nat King Cole,149
+Bonnie Raitt,149
+Perry Como,148
+The Monkees,148
+Tim McGraw,148
+Willie Nelson,148
+Electric Light Orchestra,148
+Amy Grant,147
+Miley Cyrus,147
+Def Leppard,147
+Olivia Newton-John,146
+Christina Aguilera,146
+Ne-Yo,146
+Elvis Costello,146
+Squeeze,146
+R. Kelly,145
+Wanda Jackson,145
+Chris Brown,145
+Alison Krauss,145
+"Harry Connick, Jr.",145
+Modern Talking,144
+XTC,144
+Lynyrd Skynyrd,144
+NOFX,143
+Avril Lavigne,143
+Rihanna,143
+Foo Fighters,142
+Eurythmics,142
+Genesis,141
+Billy Joel,141
+Tom Jones,141
+INXS,140
+Christmas Songs,140
+UB40,140
+Stevie Wonder,139
+Jackson Browne,139
+Andy Williams,138
+Erasure,138
+Roxette,138
+Luther Vandross,137
+Lady Gaga,137
+Judy Garland,137
+George Jones,137
+Insane Clown Posse,136
+Blur,136
+Overkill,135
+Westlife,134
+Megadeth,133
+U2,133
+ZZ Top,132
+Tragically Hip,132
+Justin Bieber,131
+Hanson,129
+Louis Armstrong,129
+Eddie Cochran,128
+Jimi Hendrix,127
+Toto,127
+Chuck Berry,127
+Lil Wayne,125
+Devo,125
+Nitty Gritty Dirt Band,125
+Engelbert Humperdinck,125
+Linkin Park,125
+Everclear,123
+Heart,122
+Misfits,122
+George Michael,122
+Reo Speedwagon,122
+Richard Marx,121
+Styx,121
+Lionel Richie,121
+P!nk,120
+Coldplay,120
+Slayer,119
+Offspring,119
+Clash,118
+Incubus,118
+Drake,117
+Usher,117
+The Temptations,117
+Celine Dion,116
+Leonard Cohen,116
+Allman Brothers Band,116
+Planetshakers,116
+Fabolous,115
+Cat Stevens,114
+Phil Collins,114
+Lana Del Rey,113
+ABBA,113
+LL Cool J,113
+Arlo Guthrie,113
+Point Of Grace,113
+Michael Buble,112
+King Diamond,112
+Carpenters,112
+W.A.S.P.,112
+Tina Turner,112
+Otis Redding,112
+Rascal Flatts,111
+Kirk Franklin,111
+Pink Floyd,111
+Tori Amos,110
+Doobie Brothers,110
+Jennifer Lopez,110
+Keith Urban,110
+Maroon 5,110
+Faith Hill,109
+Steve Miller Band,109
+Thin Lizzy,109
+Kirsty Maccoll,108
+Mary Black,108
+Yes,108
+Nine Inch Nails,108
+Dan Fogelberg,108
+Prince,106
+Kanye West,106
+Yngwie Malmsteen,106
+Janis Joplin,106
+Weird Al Yankovic,106
+Pat Benatar,106
+Warren Zevon,105
+Demi Lovato,105
+Alphaville,105
+Norah Jones,105
+Patti Smith,104
+Oingo Boingo,103
+Nirvana,103
+Whitesnake,103
+Santana,103
+Gloria Estefan,102
+Howard Jones,102
+Van Halen,102
+Wishbone Ash,102
+Alan Parsons Project,102
+Regine Velasquez,101
+Jason Mraz,101
+Ocean Colour Scene,100
+Pogues,100
+Kid Rock,100
+Widespread Panic,100
+New Order,99
+Frank Zappa,99
+Our Lady Peace,99
+One Direction,98
+HIM,98
+Boney M.,98
+Kelly Family,97
+Dream Theater,97
+Guided By Voices,97
+Neil Sedaka,97
+Fall Out Boy,97
+Ween,97
+Doors,97
+Ray Boltz,97
+Peter Gabriel,96
+Poison,96
+Pretenders,96
+Ufo,95
+Alice In Chains,95
+Etta James,94
+Gino Vannelli,94
+Indiana Bible College,93
+Face To Face,93
+Great Big Sea,93
+Whitney Houston,93
+Matt Redman,93
+Guns N' Roses,93
+John Legend,93
+'n Sync,93
+Lucky Dube,92
+Nickelback,92
+Meat Loaf,92
+Queensryche,91
+Venom,90
+Children,90
+Noa,90
+Townes Van Zandt,90
+Sting,90
+Weezer,89
+Katy Perry,89
+Grand Funk Railroad,89
+Arrogant Worms,89
+Travis,88
+Patsy Cline,88
+Nicki Minaj,88
+Steely Dan,88
+Madonna,88
+Manowar,88
+Foreigner,86
+John Waite,86
+Lloyd Cole,86
+Procol Harum,86
+Bob Marley,86
+Utopia,86
+The Jam,86
+Yoko Ono,85
+Leo Sayer,85
+Garth Brooks,85
+Josh Groban,85
+Outkast,84
+Gucci Mane,84
+Primus,83
+Religious Music,83
+Violent Femmes,83
+Europe,82
+Tracy Chapman,82
+Train,81
+Nightwish,81
+Taylor Swift,81
+Ice Cube,80
+Enrique Iglesias,79
+Everlast,78
+O.A.R.,78
+Omd,78
+Evanescence,77
+Ellie Goulding,77
+Ian Hunter,77
+Sia,77
+Talking Heads,77
+Owl City,77
+Proclaimers,76
+Zebrahead,76
+Crowded House,76
+Culture Club,76
+The Killers,75
+Bread,75
+Peter Cetera,75
+Supertramp,74
+Doris Day,74
+Old 97's,74
+Lea Salonga,74
+Ace Of Base,74
+Isley Brothers,73
+Cake,73
+Harry Belafonte,73
+Soundgarden,72
+Natalie Imbruglia,72
+Waterboys,72
+Yellowcard,72
+Pitbull,72
+Within Temptation,71
+Snoop Dogg,71
+Faith No More,71
+Human League,71
+Judds,71
+Eminem,70
+Bruno Mars,70
+Adam Sandler,70
+Kim Wilde,70
+Extreme,70
+Irving Berlin,70
+Tom Waits,70
+Ingrid Michaelson,69
+Vanessa Williams,68
+J Cole,68
+Queens Of The Stone Age,68
+Smiths,67
+Used,67
+Nick Drake,67
+Phineas And Ferb,67
+Don McLean,67
+System Of A Down,67
+Tears For Fears,66
+Jim Croce,66
+Natalie Grant,65
+The White Stripes,64
+Christy Moore,64
+Rainbow,64
+Roxy Music,64
+Ziggy Marley,64
+Sublime,63
+John McDermott,63
+Keith Green,63
+David Guetta,63
+Stone Temple Pilots,62
+Ultravox,61
+Vonda Shepard,61
+Dire Straits,61
+Puff Daddy,61
+John Martyn,61
+Incognito,60
+Death,60
+Justin Timberlake,60
+Opeth,59
+Flo-Rida,59
+Fastball,59
+Tim Buckley,58
+Vertical Horizon,58
+Wet Wet Wet,58
+Yello,57
+Young Jeezy,57
+Quiet Riot,57
+Gary Valenciano,56
+Hooverphonic,56
+Rick Astley,56
+Fiona Apple,56
+Rage Against The Machine,55
+Horrible Histories,54
+Adele,54
+Olly Murs,54
+Z-Ro,54
+You Am I,54
+Wu-Tang Clan,53
+Ed Sheeran,53
+Whiskeytown,53
+Bosson,52
+Verve,51
+Utada Hikaru,51
+Ariana Grande,51
+Peter Tosh,50
+Virgin Steele,50
+Queen Latifah,50
+Notorious B.I.G.,50
+Yeah Yeah Yeahs,50
+Joy Division,49
+Gloria Gaynor,49
+Tiffany,49
+Bob Rivers,48
+Cinderella,48
+Frankie Valli,48
+Yolanda Adams,48
+Veruca Salt,48
+Bryan White,48
+Selah,48
+Lauryn Hill,48
+Velvet Underground,48
+Xzibit,47
+Yo La Tengo,47
+Ten Years After,47
+Freestyle,46
+Kyla,46
+Underoath,46
+Mazzy Star,46
+Don Henley,46
+Wyclef Jean,45
+King Crimson,44
+Selena Gomez,44
+Rammstein,44
+Creedence Clearwater Revival,43
+Rem,42
+Uncle Kracker,42
+Les Miserables,42
+Spandau Ballet,42
+Unwritten Law,42
+Underworld,41
+Matt Monro,41
+Imagine Dragons,41
+Ofra Haza,41
+Eagles,41
+Queen Adreena,41
+Frankie Laine,41
+Xavier Rudd,40
+Enya,40
+Uncle Tupelo,40
+Erik Santos,40
+Fatboy Slim,40
+Wiz Khalifa,40
+Free,39
+Don Moen,39
+Unearth,39
+Zoegirl,38
+Kari Jobe,38
+Xscape,37
+Faces,37
+Vybz Kartel,37
+Stone Roses,37
+Raffi,36
+Ugly Kid Joe,36
+Christina Perri,36
+Out Of Eden,36
+Inna,36
+Quietdrive,36
+OneRepublic,36
+Tool,36
+Vanilla Ice,35
+Unseen,35
+Ying Yang Twins,35
+Bill Withers,35
+Passenger,35
+Little Mix,35
+Enigma,35
+Starship,34
+Twenty One Pilots,33
+Men At Work,33
+Divine,33
+Idina Menzel,33
+Oliver,32
+Wilson Phillips,32
+Lata Mangeshkar,32
+The Script,32
+Annie,32
+Zac Brown Band,31
+Grease,31
+Zeromancer,30
+Zucchero,30
+Will Smith,30
+Pharrell Williams,30
+Zao,30
+Freddie King,30
+The Weeknd,29
+Savage Garden,29
+Israel,28
+Wang Chung,28
+Frankie Goes To Hollywood,28
+Unkle,28
+Louis Jordan,27
+Imperials,27
+Stevie Ray Vaughan,27
+Mud,26
+Quasi,25
+Aiza Seguerra,25
+Andrea Bocelli,25
+Xandria,25
+Xiu Xiu,25
+Wilson Pickett,24
+Happy Mondays,24
+Zero 7,24
+Israel Houghton,24
+Aled Jones,23
+Housemartins,23
+Tom Lehrer,23
+Il Divo,23
+Quarterflash,23
+Carol Banawa,23
+Yazoo,23
+X-Ray Spex,22
+Yo Gotti,22
+Youth Of Today,22
+Zox,21
+Wham!,21
+Dewa 19,21
+Zakk Wylde,21
+Inside Out,20
+Oscar Hammerstein,20
+Orphaned Land,20
+Sam Smith,20
+Zebra,20
+Jose Mari Chan,19
+Youngbloodz,19
+Quicksand,19
+Quincy Jones,19
+Iwan Fals,19
+Ariel Rivera,19
+Quincy Punx,18
+Mark Ronson,18
+High School Musical,18
+Fun.,18
+Barbie,18
+Falco,18
+X,18
+Vangelis,18
+Halloween,18
+Mc Hammer,18
+David Pomeranz,17
+Q-Tip,17
+Cole Porter,17
+Iron Butterfly,17
+Young Buck,17
+Fifth Harmony,17
+George Formby,17
+Ultramagnetic Mc's,16
+Zayn Malik,15
+Quicksilver Messenger Service,15
+Yusuf Islam,15
+Imago,15
+Migos,15
+Lorde,15
+Yelawolf,14
+Zwan,14
+The Broadways,14
+Freddie Aguilar,13
+Little Walter,13
+Vengaboys,13
+GMB,13
+Beauty And The Beast,12
+Vera Lynn,12
+YG,12
+O-Zone,12
+X Japan,12
+Zornik,12
+U. D. O.,12
+Independence Day,11
+Walk The Moon,11
+Yukmouth,11
+Side A,11
+Yonder Mountain String Band,10
+Koes Plus,10
+Quarashi,10
+Next To Normal,9
+Yung Joc,9
+Xentrix,9
+Joseph And The Amazing Technicolor Dreamcoat,8
+Yeng Constantino,8
+Qntal,8
+X-Raided,7
+Young Dro,7
+Van Der Graaf Generator,5
+Gipsy Kings,5
+Unknown,4
+Xavier Naidoo,3
+Eppu Normaali,3
+Exo,3
+Soundtracks,3
+Various Artists,3
+Exo-K,2
+Ungu,2
+Zazie,2
+Zed,1
+Zoe,1
+X-Treme,1
+U-Kiss,1
